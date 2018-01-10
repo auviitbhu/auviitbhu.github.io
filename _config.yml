@@ -1,3 +1,5 @@
 remote_theme: twbs/bootstrap
 title: Team AUV, IITBHU
 description: This is the official github website of Team AUV, IITBHU
+
+theme: jekyll-theme-cayman
